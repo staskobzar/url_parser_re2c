@@ -1,0 +1,9 @@
+~*
+*.o
+*.a
+tests/url_parser_test
+src/url_parser
+src/url_parser.c
+example/example
+*.dSYM
+a.out
