@@ -1,3 +1,5 @@
+CFLAGS += -fPIC
+CXXFLAGS += -fPIC
 
 liburlparser.a: url_parser.o
 	ar rcs $@ $^
